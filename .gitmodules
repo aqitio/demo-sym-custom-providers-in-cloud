@@ -1,0 +1,3 @@
+[submodule "terraform-provider-okta"]
+	path = terraform-provider-okta
+	url = git@github.com:aqitio/terraform-provider-okta
